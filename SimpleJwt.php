@@ -3,7 +3,7 @@
 namespace App\Tool;
 
 /**
- * JSON Web Token - Simple:
+ * JSON Web Token - Simple use
  *
  * @category Authentication
  * @author   Gigoland <Gigoland.com>
